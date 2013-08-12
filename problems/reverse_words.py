@@ -1,6 +1,6 @@
 
-input_file_name = '../inputs/reverse_word.in'
-output_file_name = '../outputs/reverse_word.out'
+input_file_name = '../inputs/reverse_words.in'
+output_file_name = '../outputs/reverse_words.out'
 
 try:
     in_file = open(input_file_name)
